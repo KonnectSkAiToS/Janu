@@ -1,0 +1,6 @@
+{
+  "name": "Vaishu Jananni Birthday Special",
+  "description": "A romantic mobile web experience for Vaishu Jananni (Janu) featuring photo memories, love timeline, favorite treats, birthday countdown, and heartfelt wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
